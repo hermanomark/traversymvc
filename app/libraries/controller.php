@@ -10,7 +10,7 @@
 
             // Instatiate model
             return new $model();
-        } 
+        }
     
 
         // Load view    

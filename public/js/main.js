@@ -1,1 +1,2 @@
-alert(1);
+// for testing
+// alert(1);
